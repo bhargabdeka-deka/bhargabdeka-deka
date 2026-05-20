@@ -103,7 +103,7 @@ Full Stack Developer | MERN Stack Developer | Building Secure Scalable Applicati
 
 ---
 
-## 🎤 Interview Guru
+## 🎤 InterviewOS
 
 - AI-powered interview preparation platform
 - Designed modern frontend and interactive interview UI
