@@ -23,7 +23,7 @@ Full Stack Developer | MERN & Next.js Developer
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="https://www.linkedin.com/in/bhargab-deka-417126200?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -33,6 +33,10 @@ Full Stack Developer | MERN & Next.js Developer
 
 <a href="YOUR_PORTFOLIO_URL" target="blank">
 <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+<a href="https://www.instagram.com/bhargabdeka_?igsh=MWt5ZXoxbDY1YjJpbw==" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="mailto:bhargab1234deka@gmail.com">
