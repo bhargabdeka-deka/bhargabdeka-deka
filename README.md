@@ -92,34 +92,14 @@ MERN-based platform for complaint handling, workflow automation, and role-based 
 
 ---
 
-### 🎤 Interview Guru
+### 🎤 InterviewOS
 Modern interview preparation platform focused on responsive UI and interactive interview experience.
 
 🔗 GitHub Repository
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhargabdeka-deka&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargabdeka-deka&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargabdeka-deka&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Bhargab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhargabdeka-deka&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=bhargabdeka-deka&label=Profile%20Views&color=0e75b6&style=flat" />
