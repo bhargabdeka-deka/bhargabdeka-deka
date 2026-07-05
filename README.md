@@ -60,7 +60,7 @@ Real-time technical interview platform. Owned the Next.js frontend and Electron.
 
 ### ⚡ Smart Electricity Management System
 MERN-based platform (APDCL internship) for KYC verification, complaint handling, and role-based administration.
-
+**[GitHub Repo](https://github.com/bhargabdeka-deka/smart-electricity-management-system)**
 ---
 
 <p align="center">
