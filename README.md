@@ -4,7 +4,7 @@ Full Stack Developer | MERN & Next.js Developer | Open to Remote Opportunities
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Backend+Developer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Backend+Developer" />
 </p>
 
 ---
@@ -14,7 +14,6 @@ Full Stack Developer | MERN & Next.js Developer | Open to Remote Opportunities
 - 💻 Building and shipping production full-stack web applications, solo and in teams
 - ⚡ Focused on MERN Stack, Next.js, and backend systems
 - 🛠 Interested in system design and modern web technologies
-- 🎯 Looking for full-stack / backend roles — remote or hybrid
 
 ---
 
