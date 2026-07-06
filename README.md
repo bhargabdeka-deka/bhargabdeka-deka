@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargab Deka</h1>
 <h3 align="center">
-Full Stack Developer | MERN & Next.js Developer | Open to Remote Opportunities
+Full Stack Developer | MERN & Next.js Developer
 </h3>
 
 <p align="center">
