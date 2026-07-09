@@ -58,8 +58,9 @@ Institutional management platform (Next.js, TypeScript, Supabase, PostgreSQL) �
 Real-time technical interview platform. Owned the Next.js frontend and Electron.js desktop integration; led testing/QA. Backend by teammates (Go, WebRTC, Redis, Docker).
 **[GitHub Repo](https://github.com/bhargabdeka-deka/interview_help)**
 
-### ⚡ [Smart Electricity Management System
-MERN-based platform (APDCL internship) for KYC verification, complaint handling, and role-based administration.]
+### ⚡ [Smart Electricity Management System]
+MERN-based platform (APDCL internship)for KYC verification,complaint handling,and role-based administration.
+
 **[GitHub Repo](https://github.com/bhargabdeka-deka/smart-electricity-management-system)**
 ---
 
